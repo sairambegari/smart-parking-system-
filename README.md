@@ -12,7 +12,8 @@ This project utilizes **YOLO (You Only Look Once) and OpenCV** to detect and mon
 
 ## 📸 Demo 
 
-![Screenshot 2025-02-19 211822](https://github.com/user-attachments/assets/9e088105-cc5e-419a-844c-24575bea4f57)
+<img width="1493" height="816" alt="Screenshot 2025-11-01 073737" src="https://github.com/user-attachments/assets/ba1e6f0f-bc8e-4a19-897e-aeb01c72a3c4" />
+
 
 
 ## 🏗️ Installation  
@@ -63,7 +64,8 @@ Pull requests are welcome! If you'd like to contribute, please open an issue fir
 ## 📜 License  
 This project is **MIT Licensed**. Feel free to use and modify it.  
 
-## 📧 Contact  
-For any queries, reach out to **Prajes Das** via GitHub.  
+## Contact 
+https://github.com/bsairam027/smart-parking-system
 
-🔗 [GitHub Repository](https://github.com/prajesdas/Smart-Parking-Space-Detector-using-YOLO-and-OpenCV)  
+## Instagram
+https://instagram.com/Sairamsai73
